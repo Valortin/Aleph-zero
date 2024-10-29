@@ -37,6 +37,6 @@ We aim to expand our ecosystem with new tools, enhance smart contracts with addi
 To get started with Aleph Zero, clone the repository and follow the instructions in the installation guide.
 
 ```bash
-git clone https://github.com/yourusername/aleph-zero.git
-cd aleph-zero
+git clone https://github.com/Valortin/Power-of-Aleph-zero-proof-system.git
+cd Power-of-Aleph-zero-proof-system
 # Follow further setup instructions here
